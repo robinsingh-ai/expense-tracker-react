@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+#moneyPlus{
+  color: rgb(61, 126, 0);
+  font-weight: bolder;
+}
+#moneyMinus{
+  color: rgb(248, 16, 16);
+  font-weight: bolder;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.minusIncome{
+  background-color: rgb(236, 244, 245);
+}
+
+.list-category{
+  background-color: rgb(206, 245, 245);
 }
