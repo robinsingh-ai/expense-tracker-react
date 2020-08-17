@@ -1,3 +1,25 @@
+# Simple Expense Tracker
+
+## Preview
+ - https://expense-tracker-web-app.web.app/
+
+
+## Devlopment
+
+
+```
+ npm install
+ npm start
+```
+
+### Tech Stack
+ - React.js
+ - Redux as a state management library
+ - Firebase for deploy
+ - HTML5
+ - CSS3
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
