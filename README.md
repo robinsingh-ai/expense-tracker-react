@@ -14,7 +14,7 @@
 
 ### Tech Stack
  - React.js
- - Redux as a state management library
+ - CONTEXT API and HOOKS 
  - Firebase for deploy
  - HTML5
  - CSS3
